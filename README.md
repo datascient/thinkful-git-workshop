@@ -56,5 +56,5 @@ ___
 [Praketa Saxena](https://github.com/kethsaxena)<br/>
 [Vsevolod Zhoha](https://github.com/ZhohaVs/)<br/>
 Elif Demir
-
+[Muthu Hosur](https://github.com/datascient)<br />
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
